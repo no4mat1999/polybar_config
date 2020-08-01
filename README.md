@@ -1,1 +1,2 @@
-My Polybar config
+# My Polybar config
+_Mi configuración para polybar._
